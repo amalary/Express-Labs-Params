@@ -1,0 +1,24 @@
+{
+  "name": "express-labs-params",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalary/Express-Labs-Params.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalary/Express-Labs-Params/issues"
+  },
+  "homepage": "https://github.com/amalary/Express-Labs-Params#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
